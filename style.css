@@ -1,0 +1,10 @@
+table, th, td {
+    border: 1px solid black;
+    padding: .5rem;
+  }
+th{
+  background-color: bisque;
+}
+h1{
+  font-size: medium;
+}
